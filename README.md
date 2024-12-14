@@ -1,4 +1,4 @@
-## Current Libraries:
+Current Libraries:
 * org.xerial.sqlite-jdbc (SQLite JDBC library)
 * javalin (lightweight Java Webserver)
 * thymeleaf (HTML template) - https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html
